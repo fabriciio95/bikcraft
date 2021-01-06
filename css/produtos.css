@@ -125,6 +125,7 @@
 .form button {
   padding: 7px 40px;
   background: none;
+  cursor: pointer;
 }
 
 .orcamento_dados {
