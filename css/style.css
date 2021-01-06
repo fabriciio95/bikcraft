@@ -33,6 +33,7 @@ img {
 .btn.btn-preto:hover {
   color: #000;
   border-color: #000;
+  cursor: pointer;
 }
 .subtitulo {
   font-weight: bold;
