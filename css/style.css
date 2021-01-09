@@ -432,7 +432,7 @@ img {
 }
 
 /* Animação */
-
+/* https://github.com/origamid/simple-anime */
 /* 7 CSS personalizado dependendo da animação desejada */
 .js .fadeInDown {
   transform: translate3d(0, -20px, 0);
@@ -455,4 +455,21 @@ img {
   opacity: 1;
   transform: none;
   transition: transform 0.8s, opacity 0.8s;
+}
+
+/*Classes de segurança do formulário contra robos*/
+.nao-aparece {
+  visibility: hidden;
+  height: 0px;
+  position: absolute;
+}
+
+/*Estilização da mensagem de erro e sucesso de envio do formulário*/
+
+#form-sucesso {
+  color: #31aa39;
+}
+
+#form-erro {
+  color: #f64540;
 }
