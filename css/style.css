@@ -1028,6 +1028,12 @@ img {
 .contato_mapa {
   margin-bottom: 60px;
 }
+
+.alert-ficticio {
+  color: #f64540;
+  font-weight: bold;
+  margin: 0 0 10px 10px;
+}
 @media only screen and (min-width: 788px) and (max-width: 979px) {
   .qualidade::after {
     right: 66px;
