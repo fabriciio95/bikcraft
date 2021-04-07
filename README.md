@@ -21,5 +21,3 @@ O site consiste em exibir detalhes sobre a empresa e produtos disponíveis, alé
 Fabricio Siqueira Macedo
 
 https://linkedin.com/in/fabricio-siqueira-macedo
-
-(11) 98432-8331
